@@ -1,6 +1,6 @@
 const express=require('express');
-const dotenv=require('dotenv')
-dotenv.config({path:'./config.env'})
+// const dotenv=require('dotenv')
+// dotenv.config({path:'./config.env'})
 require('./db/mongoose');
 
 // const User=require('./models/user');
