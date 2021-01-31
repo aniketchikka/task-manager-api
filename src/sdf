@@ -1,0 +1,6 @@
+
+rendering binary image stored on the database
+<img src="data:image/jpg;base64,/thebinarydatacopoiedfromthedatabase">
+
+npm module sharp for formatting the images
+
